@@ -1,4 +1,4 @@
-# Hi, I'm Clementina | Oil & Gas / Energy Data Analyst
+# Hi, I'm Clementina | Oil & Gas / Energy Data Engineer
 
 Specializing in grid metrics, production decline modeling, and supply chain analytics.
 **Tech Stack:** Python (Pandas, SciPy), SQL, Power BI, Anaconda environments, and Bash automation.
