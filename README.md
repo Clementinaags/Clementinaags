@@ -15,7 +15,7 @@ The code is in a private repository because it includes licensed data. I'm happy
 ## What I work with
 **Data engineering:** Python · SQL · PostgreSQL · automated pipelines
 **Analytics and BI:** Power BI · Excel · data modelling · reporting
-**Web and maps:** JavaScript · Leaflet · Cloudflare Workers
+**Web and maps:** JavaScript · Leaflet ** Microsoft Azure · Oracle Database
 
 ## Get in touch
 I'm open to remote roles, relocation and project work.
